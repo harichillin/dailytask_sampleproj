@@ -2,6 +2,12 @@
 
 A simple to-do list web app built with Python (Flask) and SQLite. Add tasks, mark them done, delete them — all saved to a local database file so nothing is lost when you close the server.
 
+## Features
+- Add new tasks instantly
+- Mark tasks as done / undo with one click
+- Delete tasks permanently
+- Data persists locally in SQLite — survives server restarts
+- 
 ## Project structure
 
 ```
