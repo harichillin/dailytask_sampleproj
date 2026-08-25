@@ -57,4 +57,9 @@ The server keeps running in that terminal window. Close the terminal (or press `
 - SQLite (`tasks.db`) stores the tasks so they persist between restarts.
 - Every button on the page is its own small form that submits to a specific route (`/add`, `/complete/<id>`, `/delete/<id>`), which is why the page reloads after every click.
 
+## Future improvements
+- Add due dates and priority levels for tasks
+- Edit existing tasks instead of only add/delete
+- Add user login so tasks are private per user
+
 For a full line-by-line walkthrough of the code, see [CODE_WALKTHROUGH.md](CODE_WALKTHROUGH.md).
