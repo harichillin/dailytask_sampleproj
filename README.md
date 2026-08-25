@@ -1,4 +1,5 @@
 # My To-Do List App
+**Built with:** Python, Flask, SQLite, HTML/CSS, Jinja templating
 
 A simple to-do list web app built with Python (Flask) and SQLite. Add tasks, mark them done, delete them — all saved to a local database file so nothing is lost when you close the server.
 
